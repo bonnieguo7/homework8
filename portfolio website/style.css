@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;400&display=swap');
+
+* {
+    color: #6c5c64;
+    font-family: "Raleway";
+}
+
+.bgimage {
+    height:100vh;
+    background: url('images/background.jpg');
+    background-size:cover;
+    position:relative;
+}
+/* text css above background*/
+.hero_title {
+    font-size: 4.5rem;
+}
+.hero_desc {
+    font-size: 2rem;
+}
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #6c5c64;
+}
+
+/* about section image css */
+.imageAboutPage {
+    width: 100%;
+}
+
+.text-center h1{
+    font-size: 6rem;
+    color: #6c5c64;
+} 
+
+.col-lg-8 {
+    font-size: 1.25rem;
+}
+
+#about {
+    background-color: #dca49c;
+    color: #6c5c64;
+    padding: 2rem;
+    padding-bottom: 5em;
+}
+
+#portfolio {
+    background-color: #f5e2be;
+    padding: 2rem;
+}
+
+.txt-type > .txt {
+    border-right: 0.2rem solid #a4747c;
+}
+
+li {
+    color: black;
+}
+
+.navbar-brand, .nav-link {
+    color: white !important;
+
+}
