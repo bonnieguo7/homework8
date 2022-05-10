@@ -1,7 +1,3 @@
-# Tools used #
-* HTML, CSS and JavaScript
-* [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-
 Bonnie Guo -- Assignment 8
 
 The purpose of this website is to give brief insight into who I am, whether it be to potential
